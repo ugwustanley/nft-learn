@@ -1,5 +1,5 @@
 {
-name: "Gaara of the Sands",
-description: "Gaara of the Sands is a comic character from the movie naruto",
-image: "",
+"name": "A BOX",
+"description": "What do you see...",
+"image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIiB2aWV3Qm94PSIwIDAgNDAwIDQwMCI+PHBhdGggZD0iTTc4LjQgNzMuODM0Yy0yLjU5NC41MTUtNC4wNyAyLjAzNC00LjU3NyA0LjcwOS0uMjYxIDEuMzc1LS4yNjEgMjQxLjUzOSAwIDI0Mi45MTQuNDMyIDIuMjc4IDEuNjQ0IDMuNzgyIDMuNTk3IDQuNDY0IDEuNTU2LjU0MyAyNDMuNjA0LjU0MyAyNDUuMTYgMCAxLjk1My0uNjgyIDMuMTY1LTIuMTg2IDMuNTk3LTQuNDY0LjI2MS0xLjM3NS4yNjEtMjQxLjUzOSAwLTI0Mi45MTQtLjQyMS0yLjIyMS0xLjU5Ni0zLjcyMS0zLjQ5NS00LjQ2LS45NzYtLjM4LTI0Mi4zODUtLjYyNy0yNDQuMjgyLS4yNDlNMzEzLjY3MiAyMDB2MTEzLjY3Mkg4Ni4zMjhWODYuMzI4aDIyNy4zNDRWMjAwIiBmaWxsPSIjMDQwNDA0IiBmaWxsLXJ1bGU9ImV2ZW5vZGQiLz48L3N2Zz4="
 }
